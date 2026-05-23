@@ -1,0 +1,8 @@
+1.A linear Data Structure consisting of node which contains data and link to the next node.
+2.Efficient in insertion and deletion.
+3.Traversing a Linked List - O(n).
+
+Types- 
+Singly L.L - Nodes are connected in one direction
+Doubly L.L - Nodes are connected in both directions forward and backward
+Circular L.L - Tail node points back to the head , creating a loop.
