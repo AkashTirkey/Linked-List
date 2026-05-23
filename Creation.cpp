@@ -1,5 +1,6 @@
 // Structure for a node in the linked list
 #include <iostream>
+using namespace std;
 class ListNode
 {
 public:
